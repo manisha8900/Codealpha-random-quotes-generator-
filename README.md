@@ -1,1 +1,0 @@
-# Codealpha-random-quotes-generator-
